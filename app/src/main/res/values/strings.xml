@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MtMusic</string>
+    <string name="tab1">Vw</string>
+    <string name="tab2">音乐</string>
+    <string name="tab3">个人</string>
+    <string name="mtMusic">mtMusic</string>
+    <string name="lv">Lv.7</string>
+    <string name="store_music">本地音乐</string>
+</resources>
